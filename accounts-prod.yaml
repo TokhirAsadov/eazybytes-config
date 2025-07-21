@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs"
+  message: "Welcome to EazyBank accounts related PRODuction APIs"
   contactDetails:
     name: "Eshmatov Big`ay - Product Owner"
     email: "{cipher}f56b2d808808432ea5cd1b7f6b50b7d5682c45b3b0157fea548ef6452fbea9b18efc78e81d39e1ca9756aecd09e53359"
